@@ -4,8 +4,8 @@
  * register_shutdown_function,注册一个会在php中止时执行的函数,中止的情况包括发生致命错误、die之后、exit之后、执行完成之后都会调用register_shutdown_function里面的函数
  * Created by PhpStorm.
  * User: Administrator
- * Date: 2017/7/15
- * Time: 17:41
+ * Date:
+ * Time:
  */
  
 class Shutdown
